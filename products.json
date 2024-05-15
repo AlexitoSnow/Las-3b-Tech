@@ -1,0 +1,30 @@
+[
+  {
+    "id": "314",
+    "name": "Air Pro 2 N20",
+    "price": 20.00,
+    "imageUrl": "https://raw.githubusercontent.com/AlexitoSnow/Las-3b-Tech/main/products/314.png",
+    "category": "Audífonos"
+  },
+  {
+    "id": "338",
+    "name": "Air i12",
+    "price": 10.00,
+    "imageUrl": "https://raw.githubusercontent.com/AlexitoSnow/Las-3b-Tech/main/products/338.png",
+    "category": "Audífonos"
+  },
+  {
+    "id": "m90",
+    "name": "Airpods M90",
+    "price": 15.00,
+    "imageUrl": "https://raw.githubusercontent.com/AlexitoSnow/Las-3b-Tech/main/products/m90.png",
+    "category": "Audífonos"
+  },
+  {
+    "id": "s8",
+    "name": "Audífonos Samsung S8",
+    "price": 3.00,
+    "imageUrl": "https://raw.githubusercontent.com/AlexitoSnow/Las-3b-Tech/main/products/s8.png",
+    "category": "Audífonos"
+  }
+]
